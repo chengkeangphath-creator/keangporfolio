@@ -78,8 +78,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-[10px] text-muted-foreground uppercase tracking-wider font-semibold">Email Me</p>
-                  <a href="mailto:chengkeangphath@email.com" className="text-xs sm:text-sm font-semibold hover:underline text-foreground/90">
-                    chengkeangphath@email.com
+                  <a href="mailto:chengkeangphath@gmail.com" className="text-xs sm:text-sm font-semibold hover:underline text-foreground/90">
+                    chengkeangphath@gmail.com
                   </a>
                 </div>
               </div>
